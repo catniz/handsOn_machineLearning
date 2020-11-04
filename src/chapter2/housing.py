@@ -15,4 +15,4 @@ pd.options.display.width = None
 housing = load_housing_data()
 print(housing.head())
 
-print("....")
+print(".....")
