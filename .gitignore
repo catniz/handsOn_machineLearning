@@ -9,8 +9,8 @@ logs/*
 tf_logs/*
 images/**/*.dot
 my_*
-datasets/flowers
-datasets/lifesat/lifesat.csv
-datasets/spam
-datasets/words
+src/datasets/flowers
+src/datasets/lifesat/lifesat.csv
+src/datasets/spam
+src/datasets/words
 
